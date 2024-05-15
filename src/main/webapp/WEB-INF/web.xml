@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--  everything below was typed, not auto-generated -->
+
+
+<web-app> <!-- root element -->
+
+	<display-name> User Management Web Application </display-name>
+
+	<error-page>
+		<exception-type> java.lang.Exception</exception-type>
+		<location>/Error.jsp</location>
+	</error-page>
+</web-app>
